@@ -427,7 +427,7 @@ nav ul li a:hover {
     flex-direction: column;
     z-index: -1;
     background-color: #232d3f;
-    transform: translateX(100%);
+/*     transform: translateX(100%); */
     transition: all 1s;
     opacity: 0;
   }
